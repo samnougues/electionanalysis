@@ -24,6 +24,6 @@ Diana DeGette won the election with 272,892 votes, and the percentage of votes s
 ## Election-Audit Summary:
 
 -This script can be used in other elections for:
-	1) If we change the code we could find how many votes were given to each candidate from each county
+	1) If we change the code, we could find how many votes were given to each candidate from each county
 	2) We could also change the code to not include counties for smaller elections, like town mayor.
 
